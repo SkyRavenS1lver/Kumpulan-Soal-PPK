@@ -1,5 +1,5 @@
 import math
-#Pembuatan variabel dan konversi input menjadi string
+#Pembuatan variabel dan konversi input menjadi integer
 a1 = input().split()
 a2 = input().split()
 b1 = [0]*len(a1)
